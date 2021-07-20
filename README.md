@@ -1,4 +1,4 @@
-# JAVA-mySQL-webApp
+# Y02S01Project
 Year 2 Semester 1 Project - A web-based application using #java
 under the module "Object-Oriented Programming Design"
 topic "Vehicle Rental System"
